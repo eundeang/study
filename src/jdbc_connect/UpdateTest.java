@@ -1,4 +1,4 @@
-package mysql_connect;
+package jdbc_connect;
 
 import java.io.BufferedReader;
 import java.io.IOException;
