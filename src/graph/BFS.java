@@ -87,4 +87,12 @@ public class BFS {
         }
 
     }
+    static void dfs(int nowi, int nowj) {
+        visited[nowi][nowj] = true;
+        size++;
+
+        for(int d=0;d<4;d++) {
+            int next = nowi+di[d];
+        }
+    }
 }
